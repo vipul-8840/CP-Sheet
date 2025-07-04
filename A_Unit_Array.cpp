@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std ;
 
+
+
 int main ()
 {
     int t ;
@@ -36,4 +38,5 @@ int main ()
         cout<<op<<endl;
     }
     return 0;
+
 }
